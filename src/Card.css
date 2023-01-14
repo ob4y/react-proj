@@ -19,6 +19,14 @@
   border-radius: 5px;
   width: 45%;
 }
+.row-card-name{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.row-card-name span{
+  font-size: 16px;
+}
 
 .card-info {
   padding: 5px 10px 40px;

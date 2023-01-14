@@ -31,6 +31,7 @@ const courses = [
 
 
 function App() {
+  console.log(courses)
   return (
     <div className="app">
       <div className='course-container'>
